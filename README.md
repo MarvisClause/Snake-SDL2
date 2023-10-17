@@ -2,7 +2,7 @@
 
 Snake-SDL2 is a classic Snake game implemented using the SDL2 library. It provides an engaging gaming experience where players control a snake to eat food and grow while avoiding collisions with walls and the snake's own body.
 
-![Snake-SDL2 Screenshot](screenshot.png)
+![Snake-SDL2 Screenshot](https://github.com/MarvisClause/Snake-SDL2/blob/main/ShowCase/title.png)
 
 ## Features
 
@@ -30,6 +30,6 @@ To get started with Snake-SDL2, follow these steps:
 
 ## Screenshots
 
-![Game Over](game_over.png)
+![Game Over](https://github.com/MarvisClause/Snake-SDL2/blob/main/ShowCase/gameover.png)
 
 Enjoy the challenge of growing your snake while avoiding obstacles, and see how high you can score in Snake-SDL2!
